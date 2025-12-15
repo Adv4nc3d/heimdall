@@ -3,5 +3,5 @@
 </script>
 
 <template>
-  Hello World.
+  Login
 </template>
